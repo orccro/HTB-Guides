@@ -1,2 +1,3 @@
 ### This will be a guide for the HTB CTF challenge "sightless"
-Target IP: 
+'''Target IP: 
+'''
